@@ -1,1 +1,1 @@
-# odin-recipes
+This Recipe book will contain all the skills I have learned up to date such as lists, links, images and more.
