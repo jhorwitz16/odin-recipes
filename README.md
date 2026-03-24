@@ -17,3 +17,10 @@ Source: Food & Drink Destinations (https://fooddrinkdestinations.com/destination
 License: CC BY-NC 4.0
 Link to License: https://creativecommons.org/licenses/by-nc/4.0/
 Modifications: None
+
+Image Title: Chocolate Chip Cookies
+Creator: Kimberly Vardeman
+Source: Flickr (https://www.flickr.com/photos/kimberlykv/4643536339)
+License:  CC BY 2.0
+Link to License: https://creativecommons.org/licenses/by/2.0/
+Modifications: None
